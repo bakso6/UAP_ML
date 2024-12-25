@@ -21,3 +21,5 @@ Dataset yang bersumber dari kaggle dengan link sebagai [berikut](https://www.kag
 
 ## Model InceptionV3
 ![Gambar 1](gambar/InceptionV3.jpeg)
+![Gambar 1](gambar/InceptionV3 (2).jpeg)
+
