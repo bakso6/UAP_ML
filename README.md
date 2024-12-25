@@ -17,3 +17,7 @@ Dataset yang bersumber dari kaggle dengan link sebagai [berikut](https://www.kag
 
 **InceptionV3**, di sisi lain, adalah model yang lebih besar dan lebih kompleks, yang dikenal karena kemampuannya dalam menangani berbagai skala fitur melalui arsitektur inception modules. Dengan berbagai ukuran filter dalam satu layer, InceptionV3 mampu mendeteksi fitur-fitur penting dalam citra dengan lebih mendalam dan akurat, meskipun memerlukan lebih banyak sumber daya komputasi dibandingkan MobileNetV2.
 
+## Hasil
+
+## Model InceptionV3
+![Gambar 1]()
