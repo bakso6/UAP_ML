@@ -9,3 +9,11 @@ Klasifikasi transportasi militer menggunakan MobileNetV2 dan InceptionV3 adalah 
 ## Overview dataset
 
 Dataset yang bersumber dari kaggle dengan link sebagai [berikut](https://www.kaggle.com/datasets/amanrajbose/millitary-vechiles/data). Dataset terdiri atas 18.596 gambar transportasi militer berbagai kategori
+
+
+## Deskrisi Model
+
+**MobileNetV2** adalah model ringan yang dirancang untuk aplikasi mobile dan perangkat dengan sumber daya terbatas, namun tetap memberikan performa tinggi dalam hal akurasi dan efisiensi komputasi. MobileNetV2 menggunakan konsep depthwise separable convolutions, yang memungkinkan model ini untuk memiliki jumlah parameter yang lebih sedikit dan lebih cepat dalam pemrosesan citra.
+
+**InceptionV3**, di sisi lain, adalah model yang lebih besar dan lebih kompleks, yang dikenal karena kemampuannya dalam menangani berbagai skala fitur melalui arsitektur inception modules. Dengan berbagai ukuran filter dalam satu layer, InceptionV3 mampu mendeteksi fitur-fitur penting dalam citra dengan lebih mendalam dan akurat, meskipun memerlukan lebih banyak sumber daya komputasi dibandingkan MobileNetV2.
+
