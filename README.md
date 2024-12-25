@@ -21,5 +21,20 @@ Dataset yang bersumber dari kaggle dengan link sebagai [berikut](https://www.kag
 
 ## Model InceptionV3
 ![Gambar 1](gambar/InceptionV3.jpeg)
-![Gambar 1](gambar/InceptionV3 (2).jpeg)
+
+![Gambar 2](gambar/InceptionV3(2).jpeg)
+
+![Gambar 3](gambar/InceptionV3(3).jpeg)
+
+
+## Model MobileNetV2
+![Gambar 1](gambar/MobileNetv2.jpeg)
+
+![Gambar 2](gambar/MobileNetv2(2).jpeg)
+
+![Gambar 3](gambar/MobileNetv2(3).jpeg)
+
+
+
+
 
