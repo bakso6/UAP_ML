@@ -28,12 +28,12 @@ Dataset yang bersumber dari kaggle dengan link sebagai [berikut](https://www.kag
 
 
 ## Model MobileNetV2
-![Gambar 1](gambar/MobileNetv2.jpeg)
+
+![Gambar 1](gambar/MobileNetv2(3).jpeg)
 
 ![Gambar 2](gambar/MobileNetv2(2).jpeg)
 
-![Gambar 3](gambar/MobileNetv2(3).jpeg)
-
+![Gambar 3](gambar/MobileNetv2.jpeg)
 
 
 
