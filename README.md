@@ -132,9 +132,13 @@ Model MobileNetV2 menunjukkan performa yang lebih baik dan lebih efisien dibandi
 
 ## Tampilan Web
 
-![Gambar 1](https://github.com/bakso6/UAP_ML/blob/main/gambar/InceptionV3.jpeg)
+![Gambar 1](https://github.com/bakso6/UAP_ML/blob/main/gambar/uaapp.jpeg)
 
+![Gambar 2](https://github.com/bakso6/UAP_ML/blob/main/gambar/uap.jpeg)
 
+## Author
+
+[Gusnaba Fata Kusuma](https://github.com/bakso6)
 
 
 
